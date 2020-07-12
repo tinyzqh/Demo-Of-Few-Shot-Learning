@@ -1,5 +1,6 @@
 # Demo-Of-Few-Shot-Learning
-some basic demo of few-shot learning
+Some basic demo of few-shot learning
+
 Most of the code refers to [Hands-On-One-shot-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-One-shot-Learning-with-Python/)
 
 Some of the data sets have been added, so just clone it and run. 
